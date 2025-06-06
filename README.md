@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://cdn.brandfetch.io/gsoft.com.br/fallback/transparent/w/1200/h/400/banner?c=1bfwsmEH20zzEfSNTed" alt="Banner Gsoft" width="100%" />
 
 <!--
 **gsoftdobrasil/gsoftdobrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
